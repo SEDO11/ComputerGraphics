@@ -1,0 +1,5 @@
+﻿  chap5_7.cpp
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\chap5_7\chap5_7\chap5_7.cpp(117,17): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\chap5_7\chap5_7\chap5_7.cpp(118,16): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\chap5_7\chap5_7\chap5_7.cpp(126,34): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  chap5_7.vcxproj -> C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\chap5_7\Debug\chap5_7.exe
