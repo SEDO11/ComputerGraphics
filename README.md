@@ -1,7 +1,7 @@
 # ComputerGraphics
 
 glut 설정법
-https://siriusp.tistory.com/384
+https://kangjik94.tistory.com/43
 이분꺼 보면 됨
 
 freeglut폴더 안에있는 파일들을 사용해야 됨
