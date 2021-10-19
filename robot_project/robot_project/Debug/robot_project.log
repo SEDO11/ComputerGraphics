@@ -1,0 +1,130 @@
+﻿  robot_project.cpp
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(75,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(77,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(80,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(81,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(99,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(100,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(103,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(104,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(132,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(135,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(150,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(150,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(150,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(150,12): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(165,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(166,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(166,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(166,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(166,12): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(191,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(191,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(191,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(191,12): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(206,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(207,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(207,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(207,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(207,12): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(235,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(235,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(235,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(235,12): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(248,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(249,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(249,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(249,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(249,12): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(261,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(262,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(262,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(262,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(262,12): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(276,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(277,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(277,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(277,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(277,12): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(290,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(291,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(291,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(291,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(291,12): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(306,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(319,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(321,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(331,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(339,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(347,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(354,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(362,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(373,12): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(375,18): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(376,12): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(378,18): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(379,13): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(380,13): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(381,13): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(382,13): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(396,22): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(398,12): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(399,12): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(401,15): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(402,15): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(403,22): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(419,15): warning C4244: '인수': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(420,22): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(426,9): warning C4244: '=': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(444,18): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(446,12): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(447,12): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(449,15): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(450,15): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(451,22): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(465,22): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(471,9): warning C4244: '=': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(489,18): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(491,12): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(492,12): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(494,15): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(495,15): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(496,22): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(507,12): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(509,55): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(509,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(509,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(527,18): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(529,12): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(530,12): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(532,15): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(533,15): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(534,22): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(550,22): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(551,22): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(554,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(573,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(583,21): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(584,13): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(590,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(593,21): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(594,13): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(600,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(614,13): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(631,45): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(636,45): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(641,15): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(642,15): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(643,22): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(661,12): warning C4244: '인수': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(662,22): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(668,9): warning C4244: '=': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(692,29): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(694,16): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(695,16): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(697,15): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(698,15): warning C4244: '=': 'long'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(699,22): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(711,22): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\robot_project\robot_project.cpp(714,9): warning C4244: '=': 'long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  robot_project.vcxproj -> C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\robot_project\Debug\robot_project.exe

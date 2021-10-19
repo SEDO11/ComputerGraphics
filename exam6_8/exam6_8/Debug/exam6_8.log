@@ -1,0 +1,7 @@
+﻿  exam6_8.cpp
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\exam6_8\exam6_8\exam6_8.cpp(8,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\exam6_8\exam6_8\exam6_8.cpp(10,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\exam6_8\exam6_8\exam6_8.cpp(13,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\exam6_8\exam6_8\exam6_8.cpp(14,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\exam6_8\exam6_8\exam6_8.cpp(62,33): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  exam6_8.vcxproj -> C:\Users\donha\OneDrive\바탕 화면\git\ComputerGraphics\exam6_8\Debug\exam6_8.exe
